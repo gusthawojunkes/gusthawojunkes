@@ -1,31 +1,18 @@
 # Gusthawo Junkes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusthawojunkes)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/gusthawo)
-
 ## Introduction
 
-👋 Hello there! I'm Gusthawo Junkes, a Brazilian Software Engineering student with a strong focus on backend development. I strive to write clean, maintainable, and scalable code, and I have a keen interest in software architecture, particularly in the realms of "Clean Code" and "Clean Architecture."
+👋 Hello there! I'm Gusthawo Junkes, a developer and student of software engineering from Brazil with a particular interest in backend programming. I am passionate about producing clear, scalable, and maintainable code, and I have a keen interest in software design, especially "Clean Code" and "Clean Architecture." I'm currently working as a developer and polishing my talents as a student. With the help of this combination, I am able to apply the theoretical knowledge I have learned in the classroom to work projects in the real world, continually developing my skills.
 
-## Fun Facts about Me
+## Facts about Me
 
-Here are some interesting facts about me:
+1. 💼 I'm current working at <a href="https://www.geovendas.com/">@geovendas</a>
 
-1. 🌎 Im current working at <a href="https://www.geovendas.com/">@geovendas</a>
+2. 🎓 I'm pursuing a degree in Software Engineering at <a href="https://www.catolicasc.org.br/">Católica de Santa Catarina</a> university
 
-2. 🎸 **Music Lover**: Besides my passion for programming, I am an avid music enthusiast. I enjoy playing the guitar in my free time and exploring various genres of music.
+3. ❤️ I love Java
 
-3. 📚 **Bookworm**: I have a deep love for reading and believe in the power of books to expand knowledge and broaden horizons. I enjoy diving into different genres, from science fiction to philosophy.
-
-4. 🎨 **Art Enthusiast**: I appreciate various forms of art, including painting, photography, and graphic design. I find inspiration in artistic expressions and often incorporate creativity into my programming projects.
-
-5. ⚽ **Football Fan**: As a proud Brazilian, I have a strong passion for football (soccer). I enjoy watching matches, analyzing tactics, and cheering for my favorite team.
-
-6. 🎮 **Gaming Aficionado**: I appreciate the world of gaming and enjoy playing video games, both for relaxation and to explore innovative game design and storytelling.
-
-7. 🌱 **Continuous Learner**: I have a thirst for knowledge and always strive to expand my skills and stay up-to-date with the latest trends in software development. Learning is a lifelong journey for me.
-
-These fun facts showcase different aspects of my personality and interests, helping to provide a well-rounded picture of who I am beyond my professional pursuits.
+<br />
 
 ## 🌏 **SOCIAL MEDIA**
 
@@ -38,6 +25,40 @@ These fun facts showcase different aspects of my personality and interests, help
 <br />
 <br />
 
+## 🛠️ **TECHNOLOGIES**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "NodeJS")
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D "VueJS")
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white "AngularJS")
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "DOCKER")
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white "GIT")
+<br />
+<br />
+
+## 📅 **DATABASES**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")
+![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white "Firebase")
+<br />
+<br />
+
+## ☁️ **CLOUD**
+
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white "HEROKU")
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white "Amazon AWS")
+<br />
+<br />
+
 # 📊 My Stats:
 
 <details>
@@ -47,7 +68,7 @@ These fun facts showcase different aspects of my personality and interests, help
   </p>
 </details>
 <details>
-  <summary>Language Statistics</summary>
+  <summary>Language Statistics (From Wakatime)</summary>
   <p align="center">
     <img src="https://wakatime.com/share/@42089154-4583-4a2a-95ec-532dd2bedf03/cd0930bd-6e30-4465-91c9-f262e797bf0e.svg" heigth="300"/>
   </p>

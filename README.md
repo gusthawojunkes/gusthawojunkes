@@ -2,15 +2,15 @@
 
 ## Introduction
 
-👋 Hello there! I'm Gusthawo Junkes, a developer and student of software engineering from Brazil with a particular interest in backend programming. I am passionate about producing clear, scalable, and maintainable code, and I have a keen interest in software design, especially "Clean Code" and "Clean Architecture." I'm currently working as a developer and polishing my talents as a student. With the help of this combination, I am able to apply the theoretical knowledge I have learned in the classroom to work projects in the real world, continually developing my skills.
+👋 Hello there! I'm Gusthawo Junkes, a software engineer from Brazil with a strong focus on backend development. I'm passionate about writing clear, scalable, and maintainable code, and I have a deep interest in software design principles, especially "Clean Code" and "Clean Architecture." Currently, I work as a developer, where I apply and expand the theoretical knowledge I've gained throughout my studies in real-world projects.
 
 ## Facts about Me
 
 1. 💼 I'm current working at <a href="https://www.geovendas.com/">@geovendas</a>
 
-2. 🎓 I'm pursuing a degree in Software Engineering at <a href="https://www.catolicasc.org.br/">Católica de Santa Catarina</a> university
+2. 🎓 Graduated in Software Engineering from <a href="https://www.catolicasc.org.br/">Católica de Santa Catarina</a>
 
-3. ❤️ I love Java
+3. ❤️ I work with Java and have a strong love for Kotlin
 
 <br />
 
@@ -27,11 +27,11 @@
 
 ## 🛠️ **TECHNOLOGIES**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "NodeJS")
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")

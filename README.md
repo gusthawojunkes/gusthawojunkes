@@ -6,7 +6,7 @@
 
 ## Facts about Me
 
-1. 💼 I'm current working at <a href="https://www.geovendas.com/">@geovendas</a>
+1. 💼 I'm current working at <a href="https://ciandt.com">@ciandt</a>
 
 2. 🎓 Graduated in Software Engineering from <a href="https://www.catolicasc.org.br/">Católica de Santa Catarina</a>
 
